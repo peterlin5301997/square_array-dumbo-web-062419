@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-  array.each do |num|
-    return num**2
+  while count < array.size
+    return array[count]**2
   end
 end
